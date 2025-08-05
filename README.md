@@ -58,6 +58,21 @@ GITHUB_BASE_URL=https://models.github.ai/inference # or your custom base url if 
 - `AUDIO_OUTPUT_DIR`, `UPLOAD_DIR`, `DATABASE_PATH` can be changed in the code if you want a different location.
 
 ---
+##🎤 Available Voice Models
+This application uses the following Microsoft Edge-TTS voices for professional-quality audio synthesis. All voices are pre-configured in the app for quick selection and consistent results.
+
+Voice Name	Gender	Accent/Description	Model ID
+Neerja	Female	Indian English accent	en-IN-NeerjaNeural
+Prabhat	Male	Indian English accent	en-IN-PrabhatNeural
+Jenny	Female	US accent, popular, natural	en-US-JennyNeural
+Davis	Male	US accent, clear, authoritative	en-US-DavisNeural
+Mia	Female	British accent, clear, prof.	en-GB-MiaNeural
+Ryan	Male	British accent, classic	en-GB-RyanNeural
+Clara	Female	Canadian accent	en-CA-ClaraNeural
+Liam	Male	Canadian accent	en-CA-LiamNeural
+Duncan	Male	Australian, professional	en-AU-DuncanNeural
+Tina	Female	Australian, professional	en-AU-TinaNeural
+
 
 ## 🏃 Usage
 
