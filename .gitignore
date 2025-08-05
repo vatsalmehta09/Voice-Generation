@@ -1,5 +1,5 @@
 #for pip install
-pip install streamlit openai PyPDF2 python-docx pandas edge-tts openpyx xlrd asyncio-throttle pathlib2 python-dotenv loguru typing-extensions requests
+pip install streamlit openai PyPDF2 python-docx pandas edge-tts openpyxl xlrd asyncio-throttle pathlib2 python-dotenv loguru typing-extensions requests
 
 
 #api key 
