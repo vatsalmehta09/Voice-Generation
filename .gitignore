@@ -3,9 +3,11 @@ pip install streamlit openai PyPDF2 python-docx pandas edge-tts openpyxl xlrd as
 
 
 #api key 
+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
 
+https://github.com/marketplace
 
-
+NO API key required for edge-tts
 
 # Python
 __pycache__/
