@@ -1,4 +1,4 @@
-use the prefered version of python 3.13 and above
+#Use the prefered version of python 3.13 and above
 
 #for pip install
 pip install streamlit openai PyPDF2 python-docx pandas edge-tts openpyxl xlrd asyncio-throttle pathlib2 python-dotenv loguru typing-extensions requests
