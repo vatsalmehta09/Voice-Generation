@@ -22,8 +22,7 @@ Transform text and documents into professional-quality voiceovers using AI-power
 
 ### 1. Clone the Repository
 
-git clone https://github.com/vatsalmehta09/Voice-Generation.git
-cd Voice-Generation
+git clone https://github.com/vatsalmehta09/AI-Voice-Generation-edge-tts.git
 
 ### 2. Create and Activate a Virtual Environment (Recommended)
 
