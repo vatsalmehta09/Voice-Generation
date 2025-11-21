@@ -197,18 +197,6 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
-## 🤝 Contributing
+For questions, support, or collaboration, please open an issue on GitHub or contact vatsal9mehta@gmail.com
 
-Pull requests and feature suggestions are welcome!  
-Open an issue or submit a PR on GitHub.
 
----
-
-## ⭐ Contact
-
-For questions, support, or collaboration, please open an issue on GitHub or contact #YOUR_CONTACT_EMAIL (if applicable).
-# Replace #YOUR_CONTACT_EMAIL with your email or remove if you prefer not to show contact info.
-
----
-
-Built with ❤️ for content creators everywhere.
