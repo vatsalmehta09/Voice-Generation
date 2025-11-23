@@ -182,7 +182,6 @@ Thumbs.db
 
 ## 📄 License
 
-# Put your license or remove if none.
 MIT License. See [LICENSE](LICENSE) for details.
 
 ---
