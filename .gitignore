@@ -1,14 +1,11 @@
 #Use the prefered version of python 3.13 and above
 
 #for pip install
-pip install streamlit openai PyPDF2 python-docx pandas edge-tts openpyxl xlrd asyncio-throttle pathlib2 python-dotenv loguru typing-extensions requests
+#pip install streamlit openai PyPDF2 python-docx pandas edge-tts openpyxl xlrd asyncio-throttle pathlib2 python-dotenv loguru typing-extensions requests
 
-#api key 
-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
+#https://github.com/marketplace             (https://www.youtube.com/watch?v=YP8mV_2RDLc&t=1s) how can u get api for free 
 
-https://github.com/marketplace             (https://www.youtube.com/watch?v=YP8mV_2RDLc&t=1s) how can u get api for free 
-
-NO API key required for edge-tts
+#NO API key required for edge-tts
 
 # Python
 __pycache__/
@@ -19,9 +16,6 @@ __pycache__/
 env/
 venv/
 ENV/
-
-# Streamlit
-.streamlit/
 
 # Database
 *.sqlite
@@ -48,3 +42,52 @@ uploads/
 # OS
 .DS_Store
 Thumbs.db
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Virtual environment (if any)
+venv/
+env/
+.venv/
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python cache logs
+*.log
+
+# Temporary files/folders
+*.tmp
+*.temp
+
+# SQLite database file (if you don't want to version this)
+voiceover_db.sqlite
+
+# Audio output directory (generated)
+audio_files/
+
+# Uploads directory (runtime uploads)
+uploads/
+
+# Environment variables file (for secrets)
+.env
+.env.*
+
+# Miscellaneous
+*.bak
+*.swp
+
+# Streamlit
+.streamlit/
